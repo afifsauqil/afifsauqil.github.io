@@ -1,0 +1,31 @@
+h5 {
+  color: #104e8b;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#portfolio, #gallery {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 5px;
+}
+
+@media (min-width: 1200px) {
+  img .flat {
+    width: 10%;
+    height: 10%;
+  }
+}
